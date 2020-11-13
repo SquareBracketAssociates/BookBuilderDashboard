@@ -1,9 +1,13 @@
 
 
-## Migrated to latest sba template 
+## On travis.org Migrated to latest sba template 
 
 Concurrent Programming
-[![Build status][https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming]][https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming]
+[![Build status][https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming]][https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming] [![Build status][https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming]][https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming]
+
+
+## On travis.com
+
 
 DataFrame
 [![Build status][https://github.com/SquareBracketAssociates/Booklet-DataFrame]][https://github.com/SquareBracketAssociates/Booklet-DataFrame]
@@ -16,6 +20,8 @@ Scraping
 
 uFFI
 [![Build status][https://travis-ci.org/github/SquareBracketAssociates/Booklet-uFFI]][https://travis-ci.org/github/SquareBracketAssociates/Booklet-uFFI]
+
+
 
 
 
