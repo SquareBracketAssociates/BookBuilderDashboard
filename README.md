@@ -5,7 +5,7 @@
 #### Concurrent Programming
 [https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
-[![Build status](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming)
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
 
 [![Build status][https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master]][https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc]
