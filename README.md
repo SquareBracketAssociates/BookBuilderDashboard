@@ -3,19 +3,20 @@
 ## On travis.org Migrated to latest sba template 
 
 #### Concurrent Programming
-[https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
-
-[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming)
-
-
-#### Booklet-Smacc[https://github.com/SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc)
-
-[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-Smacc)
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming) 
+ [https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
 
-#### Booklet-AMiniSchemeInPharo[https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
+#### Booklet-Smacc
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-Smacc) [https://github.com/SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc)
 
-[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-AMiniSchemeInPharo.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
+
+
+
+#### Booklet-AMiniSchemeInPharo 
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-AMiniSchemeInPharo.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-AMiniSchemeInPharo) [https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
+
+
 
 
 ## On travis.com
