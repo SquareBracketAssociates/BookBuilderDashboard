@@ -8,10 +8,15 @@
 [![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
 
-[![Build status][https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master]][https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc]
+#### Booklet-Smacc[https://github.com/SquareBracketAssociates/Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc)
 
-https://travis-ci.org/github/SquareBracketAssociates/Booklet-AMiniSchemeInPharo
-https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-Smacc)
+
+
+#### Booklet-AMiniSchemeInPharo[https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
+
+[![Build status](https://travis-ci.org/SquareBracketAssociates/Booklet-AMiniSchemeInPharo.svg?branch=master)](https://travis-ci.org/github/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
+
 
 ## On travis.com
 
