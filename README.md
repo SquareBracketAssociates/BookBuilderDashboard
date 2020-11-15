@@ -81,6 +81,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-TestingInPharo (broken PetitParser?)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-TestingInPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-TestingInPharo) [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo)
 
+#### uFFI
+[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)
+
+
 #### Booklet-Voyage
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Voyage.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Voyage) [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage)
 
@@ -103,11 +107,12 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-Tutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-Tutorial) [TinyBlog-Tutorial](https://github.com/SquareBracketAssociates/TinyBlog-Tutorial)
 
 #### uFFI
-[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) [uFFI](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
 
 
-# Todo
+# TodoDynamicWebDevelopmentWithSeaside
 - Fix IA book
 - TinyBlog-Tutorial
 - Testing in Pharo
+- DynamicWebDevelopmentWithSeaside
 
