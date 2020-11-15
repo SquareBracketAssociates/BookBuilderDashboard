@@ -73,7 +73,7 @@
 #### Booklet-AReflectiveKernel
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
 
-#### Booklet-TestingInPharo
+#### Booklet-TestingInPharo (broken PetitParser?)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-TestingInPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-TestingInPharo) [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo)
 
 #### Booklet-Voyage
