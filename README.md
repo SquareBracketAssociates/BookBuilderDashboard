@@ -1,3 +1,8 @@
+# Watchdog list
+
+In subsequent section, you can find the current todo to get this bar green. 
+Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
+
 #### Booklet-AI-Technics (should check what is broken)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AI-Technics.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AI-Technics) [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics)
 
