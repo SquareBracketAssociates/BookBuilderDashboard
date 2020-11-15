@@ -107,7 +107,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-Tutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-Tutorial) [TinyBlog-Tutorial](https://github.com/SquareBracketAssociates/TinyBlog-Tutorial)
 
 #### DynamicWebDevelopmentWithSeaside
-[![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) [uFFI](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
 
 
 # TodoDynamicWebDevelopmentWithSeaside
