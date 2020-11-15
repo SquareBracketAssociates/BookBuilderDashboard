@@ -1,4 +1,4 @@
-#### Booklet-AI-Technics
+#### Booklet-AI-Technics (should check what is broken)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AI-Technics.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AI-Technics) [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics)
 
 #### Booklet-AMiniSchemeInPharo
