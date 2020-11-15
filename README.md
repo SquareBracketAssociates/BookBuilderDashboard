@@ -103,7 +103,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-Tutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-Tutorial) [TinyBlog-Tutorial](https://github.com/SquareBracketAssociates/TinyBlog-Tutorial)
 
 #### uFFI
-[![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-uFFI.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/uFFI) [uFFI](https://github.com/SquareBracketAssociates/uFFI)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/uFFI)
 
 
 # Todo
