@@ -103,7 +103,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### TinyBlog-EN
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-EN.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-EN) [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN)
 
-#### TinyBlogTutorial (should check)
+#### TinyBlogTutorial
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlogTutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlogTutorial) [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
 #### DynamicWebDevelopmentWithSeaside
@@ -112,7 +112,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 # TodoDynamicWebDevelopmentWithSeaside
 - Fix IA book
-- TinyBlogTutorial
 - Testing in Pharo
 - DynamicWebDevelopmentWithSeaside
 
