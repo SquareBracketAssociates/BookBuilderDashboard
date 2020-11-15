@@ -13,8 +13,8 @@
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
-#### Booklet-ClassCommandLine
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ClassCommandLine.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ClassCommandLine) [Booklet-ClassCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClassCommandLine)
+#### Booklet-ClapCommandLine
+[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ClapCommandLine.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ClapCommandLine) [Booklet-ClapCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine)
 
 #### Booklet-Commander
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Commander.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Commander) [Booklet-Commander](https://github.com/SquareBracketAssociates/Booklet-Commander)
