@@ -94,5 +94,5 @@
 #### TinyBlog-EN
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-EN.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-EN) [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN)
 
-#### TinyBlog-Tutorial
+#### TinyBlog-Tutorial (should check)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-Tutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-Tutorial) [TinyBlog-Tutorial](https://github.com/SquareBracketAssociates/TinyBlog-Tutorial)
