@@ -47,6 +47,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
+#### Learning OOP 
+- ![Build status](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/actions/workflows/main.yml/badge.svg)
+- [Jump to LearningOOPWithPharo](https://github.com/SquareBracketAssociates/LearningOOPWithPharo)
+
 
 # Old to be migrated to centralized builder
 
