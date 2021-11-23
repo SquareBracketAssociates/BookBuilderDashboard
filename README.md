@@ -40,12 +40,12 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
 #### Booklet-ManagingCode
-- ![Build status](https://github.com/SquareBracketAssociates/ManagingCode/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-ManagingCode](https://github.com/SquareBracketAssociates/ManagingCode)
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode)
 
 #### Booklet-ConcurrentProgramming
-- ![Build status](https://github.com/SquareBracketAssociates/ConcurrentProgramming/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/ConcurrentProgramming)
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
 
 
 # Old to be migrated to centralized builder
