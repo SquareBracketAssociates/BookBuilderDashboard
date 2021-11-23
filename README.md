@@ -40,9 +40,12 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
 #### Booklet-ManagingCode
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ManagingCode.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ManagingCode) [Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode)
 - ![Build status](https://github.com/SquareBracketAssociates/ManagingCode/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/ManagingCode)
+- [Jump to Booklet-ManagingCode](https://github.com/SquareBracketAssociates/ManagingCode)
+
+#### Booklet-ConcurrentProgramming
+- ![Build status](https://github.com/SquareBracketAssociates/ConcurrentProgramming/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/ConcurrentProgramming)
 
 
 # Old to be migrated to centralized builder
@@ -59,8 +62,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-BuildingMemoryGameWithBloc
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc)
 
-
-
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
@@ -73,8 +74,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-DataFrame
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-DataFrame.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-DataFrame) [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame)
 
-#### Booklet-ConcurrentProgramming
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ConcurrentProgramming.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ConcurrentProgramming) [Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
+
 
 #### Booklet-FunWithInterpreters
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-FunWithInterpreters.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-FunWithInterpreters) [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters)
