@@ -3,20 +3,21 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
-#### [Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
-![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
-
+#### Building applications with Spec2
+- ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
+- [Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
+- 
 #### PharoByExample9
 - ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
 - [Jump to PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9)
 
 #### TinyBlog-EN
-![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
-[Jump to TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN)
+- ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
+- [Jump to TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN)
 
-#### Booklet-PharoWithStyle
-![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg)
-[Jump to Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
+#### PharoWithStyle
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
 
 
 # Old to be migrated to centralized builder
