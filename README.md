@@ -6,7 +6,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Building applications with Spec2
 - ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
 - [Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
-- 
+
 #### PharoByExample9
 - ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
 - [Jump to PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9)
