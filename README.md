@@ -3,6 +3,21 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
+#### BuildingApplicationWithSpec2
+![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
+[Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
+
+#### PharoByExample90
+![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
+[Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/PharoByExample9)
+
+
+# Old to be migrated to centralized builder
+
+#### Booklet-PharoWithStyle
+[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoWithStyle.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoWithStyle) [Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
+
+
 #### Booklet-AI-Technics (should check what is broken)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AI-Technics.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AI-Technics) [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics)
 
@@ -15,8 +30,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-BuildingMemoryGameWithBloc
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc)
 
-#### Booklet-BuildingApplicationWithSpec2
-![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
+
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
@@ -63,8 +77,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-PharoVirtualMachine
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoVirtualMachine.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoVirtualMachine) [Booklet-PharoVirtualMachine](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine)
 
-#### Booklet-PharoWithStyle
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoWithStyle.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoWithStyle) [Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
+
 
 #### Booklet-Smacc
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Smacc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Smacc) [Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc)
@@ -95,7 +108,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ZincHTTP.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ZincHTTP) [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP)
 
 #### BuildingApplicationWithSpec2
-[![Build status](https://travis-ci.com/SquareBracketAssociates/BuildingApplicationWithSpec2.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/BuildingApplicationWithSpec2) [BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/BuildingApplicationWithSpec2.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/BuildingApplicationWithSpec2) 
 
 #### PatternsOfDesign
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign)
