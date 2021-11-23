@@ -15,11 +15,12 @@ Here is a list of some of the books, we migrated to latest latex template and la
 ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
 [Jump to PharoByExample9](https://github.com/SquareBracketAssociates/TinyBlog-EN)
 
-# Old to be migrated to centralized builder
-
 #### Booklet-PharoWithStyle
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoWithStyle.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoWithStyle) [Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoWithStyle.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoWithStyle) 
+[Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
 
+
+# Old to be migrated to centralized builder
 
 #### Booklet-AI-Technics (should check what is broken)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AI-Technics.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AI-Technics) [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics)
