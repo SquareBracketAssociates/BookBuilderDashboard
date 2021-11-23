@@ -27,6 +27,11 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
+#### Booklet-TestingInPharo
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharol)
+
+
 # Old to be migrated to centralized builder
 
 #### Booklet-AI-Technics (should check what is broken)
@@ -105,8 +110,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-AReflectiveKernel
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
 
-#### Booklet-TestingInPharo (broken PetitParser?)
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-TestingInPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-TestingInPharo) [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo)
+
 
 #### uFFI
 [![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)
