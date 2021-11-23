@@ -3,9 +3,8 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
-#### BuildingApplicationWithSpec2
+#### [Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
 ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
-[Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
 
 #### PharoByExample9
 ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
