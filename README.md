@@ -15,6 +15,9 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-BuildingMemoryGameWithBloc
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc)
 
+#### Booklet-BuildingApplicationWithSpec2
+![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
+
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
