@@ -11,6 +11,9 @@ Here is a list of some of the books, we migrated to latest latex template and la
 ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
 [Jump to PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9)
 
+#### TinyBlog-EN
+![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
+[Jump to PharoByExample9](https://github.com/SquareBracketAssociates/TinyBlog-EN)
 
 # Old to be migrated to centralized builder
 
@@ -116,8 +119,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### PharoByExample80
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PharoByExample80.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PharoByExample80) [PharoByExample80](https://github.com/SquareBracketAssociates/PharoByExample80)
 
-#### TinyBlog-EN
-[![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlog-EN.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlog-EN) [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN)
+
 
 #### TinyBlogTutorial
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlogTutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlogTutorial) [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
