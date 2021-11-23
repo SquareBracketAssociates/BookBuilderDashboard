@@ -126,11 +126,14 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlogTutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlogTutorial) [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
 #### DynamicWebDevelopmentWithSeaside
-[![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
+- [![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) 
+- [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
 
 
-# TodoDynamicWebDevelopmentWithSeaside
+# Todo
+- Pharo graphs
 - Fix IA book
 - Testing in Pharo
+
 
 
