@@ -24,8 +24,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs)
 
 #### TinyBlogTutorial
-[![Build status](https://travis-ci.com/SquareBracketAssociates/TinyBlogTutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/TinyBlogTutorial) [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
-
+- ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
 # Old to be migrated to centralized builder
 
