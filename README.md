@@ -3,13 +3,28 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
+
+### Ongoing
+
 #### Building applications with Spec2
 - ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg)
 - [Jump to BuildingApplicationWithSpec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2)
 
+### About to Release
+
 #### PharoByExample9
 - ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg)
 - [Jump to PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9)
+
+#### Booklet-TestingInPharo
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharol)
+
+#### PharoGraphs
+- ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs)
+
+### Released
 
 #### TinyBlog-EN
 - ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
@@ -19,17 +34,15 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle)
 
-#### PharoGraphs
-- ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs)
 
 #### TinyBlogTutorial
 - ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
 
-#### Booklet-TestingInPharo
-- ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharol)
+#### Booklet-ManagingCode
+[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ManagingCode.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ManagingCode) [Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode)
+- ![Build status](https://github.com/SquareBracketAssociates/ManagingCode/actions/workflows/main.yml/badge.svg)
+- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/ManagingCode)
 
 
 # Old to be migrated to centralized builder
@@ -72,8 +85,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-LLVMCompilationWithPharo
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo) [Booklet-LLVMCompilationWithPharo](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo)
 
-#### Booklet-ManagingCode
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ManagingCode.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ManagingCode) [Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode)
+
 
 #### Booklet-Magritte
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Magritte.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Magritte) [Booklet-Magritte](https://github.com/SquareBracketAssociates/Booklet-Magritte)
