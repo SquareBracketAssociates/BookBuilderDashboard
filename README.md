@@ -20,11 +20,13 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharol)
 
+
+
+### Released
+
 #### PharoGraphs
 - ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg)
 - [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs)
-
-### Released
 
 #### TinyBlog-EN
 - ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
