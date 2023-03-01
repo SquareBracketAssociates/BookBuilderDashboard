@@ -18,7 +18,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### Booklet-TestingInPharo
 - ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharol)
+- [Jump to Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo)
 
 
 
