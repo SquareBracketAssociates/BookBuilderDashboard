@@ -27,7 +27,8 @@ jobs:
       - name: Build PDF
         run: |
           export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-          pillar build pdf
+          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
+          pillar build pdf $FILE
           mv _result/pdf/index.pdf artifacts/${{ inputs.bookname }}.pdf
 
       - name: Build HTML
