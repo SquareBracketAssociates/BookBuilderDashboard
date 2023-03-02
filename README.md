@@ -8,31 +8,17 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Pharo Graphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg) |  [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf) | Released | Microdown |
 | [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlog-EN/releases/download/latest/TinyBlog-EN.pdf) | Released | Pillar |
 | [PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/releases/download/latest/PharoWithStyle.pdf) | Released | Microdown |
+| [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlogTutorial/releases/download/latest/TinyBlog-FR.pdf) | Released | Pillar |
+| [Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/releases/download/latest/ManagingCodeInPharo.pdf) | Released | Pillar |
+| [Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/releases/download/latest/ConcurrentProgrammingInPharo.pdf) | Released | Pillar |
+| [Learning OOP ](https://github.com/SquareBracketAssociates/LearningOOPWithPharo) | ![Build status](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/actions/workflows/main.yml/badge.svg) | TODO | Released | Pillar |
 |  |  |  |  |  |
 | [PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PharoByExample9/releases/download/latest/PBE9-wip.pdf) | Pre-release | Microdown |
 | [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Pre-release | Microdown |
 |  |  |  |  |  |
 | [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
+| [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |
 |  |  |  |  |  |
-
-### Released
-
-#### TinyBlogTutorial
-- ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/TinyBlogTutorial)
-
-#### Booklet-ManagingCode
-- ![Build status](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode)
-
-#### Booklet-ConcurrentProgramming
-- ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming)
-
-#### Learning OOP 
-- ![Build status](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/actions/workflows/main.yml/badge.svg)
-- [Jump to LearningOOPWithPharo](https://github.com/SquareBracketAssociates/LearningOOPWithPharo)
-
 
 # Old to be migrated to centralized builder
 
