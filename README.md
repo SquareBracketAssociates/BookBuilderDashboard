@@ -3,15 +3,15 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
-| Book                             | Build Status  | PDF   | State | 
-| -------------------------------- |:-------------:| -----:| -----:|
-| [Pharo Graphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg) |  [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf) | Released |
-|  |  |  |  |
-| [PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PharoByExample9/releases/download/latest/PBE9-wip.pdf) | Pre-release |
-| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Pre-release |
-|  |  |  |  |
-| [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing |
-|  |  |  |  |
+| Book                             | Build Status  | PDF   | State | Type  |
+| -------------------------------- |:-------------:| -----:| -----:| -----:|
+| [Pharo Graphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg) |  [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf) | Released | Microdown |
+|  |  |  |  |  |
+| [PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PharoByExample9/releases/download/latest/PBE9-wip.pdf) | Pre-release | Microdown |
+| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Pre-release | Microdown |
+|  |  |  |  |  |
+| [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
+|  |  |  |  |  |
 
 ### Released
 
