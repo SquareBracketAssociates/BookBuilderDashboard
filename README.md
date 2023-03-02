@@ -21,12 +21,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/releases/download/latest/AMiniScheme-wip.pdf) | Ongoing | Pillar |
 | [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AI-Technics/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AI-Technics/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AI-Tecnics/releases/download/latest/AI-Technics.pdf) | Ongoing | Pillar |
 | [Booklet-APharoThingsTutorial](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/releases/download/latest/PharoThings-wip.pdf) | Ongoing | Pillar |
+| [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/releases/download/latest/MemoryGame-wip.pdf) | Ongoing | Pillar |
 |  |  |  |  |  |
 
 # Old to be migrated to centralized builder
-
-#### Booklet-BuildingMemoryGameWithBloc
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc)
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
@@ -37,11 +35,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-Commander
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Commander.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Commander) [Booklet-Commander](https://github.com/SquareBracketAssociates/Booklet-Commander)
 
-#### Booklet-DataFrame
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-DataFrame.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-DataFrame) [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame)
-
-
-
 #### Booklet-FunWithInterpreters
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-FunWithInterpreters.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-FunWithInterpreters) [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters)
 
@@ -50,8 +43,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### Booklet-LLVMCompilationWithPharo
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo) [Booklet-LLVMCompilationWithPharo](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo)
-
-
 
 #### Booklet-Magritte
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Magritte.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Magritte) [Booklet-Magritte](https://github.com/SquareBracketAssociates/Booklet-Magritte)
@@ -71,8 +62,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-PharoVirtualMachine
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoVirtualMachine.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoVirtualMachine) [Booklet-PharoVirtualMachine](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine)
 
-
-
 #### Booklet-Smacc
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Smacc.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Smacc) [Booklet-Smacc](https://github.com/SquareBracketAssociates/Booklet-Smacc)
 
@@ -88,11 +77,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-AReflectiveKernel
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
 
-
-
 #### uFFI
 [![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)
-
 
 #### Booklet-Voyage
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Voyage.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Voyage) [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage)
@@ -105,9 +91,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### PharoByExample80
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PharoByExample80.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PharoByExample80) [PharoByExample80](https://github.com/SquareBracketAssociates/PharoByExample80)
-
-
-
 
 #### DynamicWebDevelopmentWithSeaside
 - [![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) 
