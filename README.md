@@ -5,6 +5,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 | Book                             | Build Status  | PDF   | State | 
 | -------------------------------- |:-------------:| -----:| -----:|
+| [Pharo Graphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg) |  [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf) | Released |
+|  |  |  |  |
 | [PharoByExample9](https://github.com/SquareBracketAssociates/PharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/PharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PharoByExample9/releases/download/latest/PBE9-wip.pdf) | Pre-release |
 | [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Pre-release |
 |  |  |  |  |
@@ -12,10 +14,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 |  |  |  |  |
 
 ### Released
-
-#### PharoGraphs
-- ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg)
-- [Jump to Booklet-PharoGraphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs)
 
 #### TinyBlog-EN
 - ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg)
