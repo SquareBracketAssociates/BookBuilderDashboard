@@ -31,12 +31,13 @@ jobs:
           pillar build pdf $FILE
           mv _result/pdf/index.pdf artifacts/${{ inputs.bookname }}.pdf
 
-      - name: Build HTML
-        run: |
-          export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
-          pillar build html $FILE
-          ls -R _result/
+# Pillar cannot export HTML for microdown currently. We will uncoment whel it will be able
+#      - name: Build HTML
+#        run: |
+#          export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
+#          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
+#          pillar build html $FILE
+#          ls -R _result/
         # TODO: move html files to archive to artifacts folder
 
       - name: Continuous Release
