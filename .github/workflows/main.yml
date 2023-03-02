@@ -34,7 +34,8 @@ jobs:
       - name: Build HTML
         run: |
           export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-          pillar build html
+          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
+          pillar build html $FILE
           ls -R _result/
         # TODO: move html files to archive to artifacts folder
 
