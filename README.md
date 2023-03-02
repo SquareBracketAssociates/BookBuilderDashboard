@@ -18,15 +18,13 @@ Here is a list of some of the books, we migrated to latest latex template and la
 |  |  |  |  |  |
 | [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
 | [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |
+| [Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/releases/download/latest/AMiniScheme-wip.pdf) | Ongoing | Pillar |
 |  |  |  |  |  |
 
 # Old to be migrated to centralized builder
 
 #### Booklet-AI-Technics (should check what is broken)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AI-Technics.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AI-Technics) [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics)
-
-#### Booklet-AMiniSchemeInPharo
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AMiniSchemeInPharo) [Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo)
 
 #### Booklet-APharoThingsTutorial
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-APharoThingsTutorial.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-APharoThingsTutorial) [Booklet-APharoThingsTutorial](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial)
