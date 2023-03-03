@@ -27,24 +27,16 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-Commander](https://github.com/SquareBracketAssociates/Booklet-Commander) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Commander/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Commander/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Commander/releases/download/latest/Commander-wip.pdf) | Ongoing | Microdown |
 | [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/releases/download/latest/fun-with-interpreters-wip.pdf) | Ongoing | Microdown |
 | [Booklet-LLVMCompilationWithPharo](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-LLVMCompilationWithPharo/releases/download/latest/LLVM-C-Tutorial-WIP.pdf) | Ongoing | Pillar |
+| [Booklet-Magritte](https://github.com/SquareBracketAssociates/Booklet-Magritte) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Magritte/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Magritte/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Maggrite/releases/download/latest/magritte-wip.pdf) | Ongoing | Pillar |
+| [Booklet-Mocking](https://github.com/SquareBracketAssociates/Booklet-Mocking) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Mocking/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Mocking/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Mocking/releases/download/latest/mocking-wip.pdf) | Ongoing | Pillar |
+| [Booklet-OPAL](https://github.com/SquareBracketAssociates/Booklet-OPAL) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-OPAL/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-OPAL/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-OPAL/releases/download/latest/Opal-wip.pdf) | Ongoing | Pillar |
+| [Booklet-PetitParser](https://github.com/SquareBracketAssociates/Booklet-PetitParser) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-PetitParser/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PetitParser/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-OPAL/releases/download/latest/PetitParser-wip.pdf) | Ongoing | Pillar |
 |  |  |  |  |  |
 
 # Old to be migrated to centralized builder
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
-
-#### Booklet-Magritte
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Magritte.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Magritte) [Booklet-Magritte](https://github.com/SquareBracketAssociates/Booklet-Magritte)
-
-#### Booklet-Mocking
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Mocking.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Mocking) [Booklet-Mocking](https://github.com/SquareBracketAssociates/Booklet-Mocking)
-
-#### Booklet-OPAL
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-OPAL.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-OPAL) [Booklet-OPAL](https://github.com/SquareBracketAssociates/Booklet-OPAL)
-
-#### Booklet-PetitParser
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PetitParser.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PetitParser) [Booklet-PetitParser](https://github.com/SquareBracketAssociates/Booklet-PetitParser)
 
 #### Booklet-PharoChosenPieces
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-PharoChosenPieces.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-PharoChosenPieces) [Booklet-PharoChosenPieces](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces)
