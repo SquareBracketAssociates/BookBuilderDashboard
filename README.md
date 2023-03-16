@@ -56,7 +56,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
 
 #### uFFI
-[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI) Released Microdown
 
 #### Booklet-Voyage
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Voyage.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Voyage) [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage)
@@ -65,7 +65,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ZincHTTP.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ZincHTTP) [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP)
 
 #### PatternsOfDesign
-[![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign)
+[![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) Ongoing Microdown
 
 #### PharoByExample80
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PharoByExample80.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PharoByExample80) [PharoByExample80](https://github.com/SquareBracketAssociates/PharoByExample80)
