@@ -21,6 +21,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-AMiniSchemeInPharo](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/releases/download/latest/AMiniScheme-wip.pdf) | Released | Microdown |
 | [Booklet-Commander](https://github.com/SquareBracketAssociates/Booklet-Commander) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Commander/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Commander/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Commander/releases/download/latest/Commander-wip.pdf) | Released | Microdown |
 | [Booklet-APharoThingsTutorial](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-APharoThingsTutorial/releases/download/latest/PharoThings-wip.pdf) | Ongoing | Pillar |
+| UFFI | [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)   |  |Released  | Microdown |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 | [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
@@ -56,7 +58,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
 
 #### uFFI
-[![Build status](https://travis-ci.com/SquareBracketAssociates/booklet-uffi.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/booklet-uFFI) [uFFI](https://github.com/SquareBracketAssociates/booklet-uFFI) Released Microdown
+
 
 #### Booklet-Voyage
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-Voyage.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-Voyage) [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage)
