@@ -13,7 +13,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [NewPharoByExample9](https://github.com/SquareBracketAssociates/NewPharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/NewPharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)] | Released | Microdown |
 
 
-###Booklets
+### Booklets
 
 | Booklets                             | Build Status  | PDF   | State | Type  |
 | -------------------------------- |:-------------:| -----:| -----:| -----:|
