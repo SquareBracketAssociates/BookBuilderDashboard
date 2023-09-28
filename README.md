@@ -10,7 +10,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlogTutorial/releases/download/latest/TinyBlog-FR.pdf) | Published | Microdown |  Lulu |
 
 | [Learning OOP](https://github.com/SquareBracketAssociates/LearningOOPWithPharo) | DNU Latex Error but the pdf is still produced | TODO | Released | Microdown | Lulu |
-| [NewPharoByExample9](https://github.com/SquareBracketAssociates/NewPharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/NewPharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)] | Released | Microdown |  Bod |
+| [NewPharoByExample9](https://github.com/SquareBracketAssociates/NewPharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/NewPharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/NewPharoByExample9/releases/download/latest/TinyBlog-FR.pdf) | Released | Microdown |  Bod |
 
 
 ### Booklets
