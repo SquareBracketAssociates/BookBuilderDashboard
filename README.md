@@ -34,6 +34,9 @@ Here is a list of some of the books, we migrated to latest latex template and la
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+| [Reflective Kernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Chest/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/releases/download/latest/reflectiveKernel-wip.pdf) | released | microdown |
+
+
 
 ### Books nearly finished
 | Books                             | Build Status  | PDF   | State | Type  |
@@ -68,8 +71,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
-#### Booklet-AReflectiveKernel
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-AReflectiveKernel.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-AReflectiveKernel) [Booklet-AReflectiveKernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel)
+
 
 
 #### Booklet-Voyage
