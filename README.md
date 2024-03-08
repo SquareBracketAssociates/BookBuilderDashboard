@@ -87,7 +87,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 
 # Todo
-- Pharo graphs
 - Fix IA book
 - Testing in Pharo
 
