@@ -33,6 +33,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Reflective Kernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/releases/download/latest/reflectiveKernel-wip.pdf) | Released | Microdown |
 | [UFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)  |  |  | Released  | Microdown |
 | [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/releases/download/latest/Voyage.pdf) | Released | Microdown |
+| [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/releases/download/latest/zinc.pdf) | Released | Microdown |
 
 
 
@@ -67,9 +68,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
-
-#### Booklet-ZincHTTP
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-ZincHTTP.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-ZincHTTP) [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP)
 
 #### PatternsOfDesign
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) Ongoing Microdown
