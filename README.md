@@ -77,9 +77,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### PatternsOfDesign
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) Ongoing Microdown
 
-#### PharoByExample80
-[![Build status](https://travis-ci.com/SquareBracketAssociates/PharoByExample80.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PharoByExample80) [PharoByExample80](https://github.com/SquareBracketAssociates/PharoByExample80)
-
 #### DynamicWebDevelopmentWithSeaside
 - [![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) 
 - [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
