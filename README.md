@@ -14,6 +14,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |
 | [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/releases/download/latest/MemoryGame-wip.pdf) | Ongoing | Microdown |
 | [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) | [![Book generation](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/releases/download/latest/DynamicWebDev-wip.pdf) | Ongoing | Microdown |
+| [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) | [![Book generation](https://github.com/SquareBracketAssociates/PatternsOfDesign/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/PatternsOfDesign/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PatternsOfDesign/releases/download/latest/Pattern-wip.pdf) | Ongoing | Microdown |
 
 
 ### Booklets
@@ -63,10 +64,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
-
-#### PatternsOfDesign
-[![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) Ongoing Microdown
-
 
 # Todo
 - Pharo graphs
