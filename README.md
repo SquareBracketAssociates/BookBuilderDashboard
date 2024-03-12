@@ -10,6 +10,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlogTutorial/releases/download/latest/TinyBlog-FR.pdf) | Published | Microdown | Lulu |
 | [Learning OOP](https://github.com/SquareBracketAssociates/LearningOOPWithPharo) | DNU Latex Error but the pdf is still produced | TODO | Released | Microdown | Lulu |
 | [NewPharoByExample9](https://github.com/SquareBracketAssociates/NewPharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/NewPharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/NewPharoByExample9/releases/download/latest/TinyBlog-FR.pdf) | Released | Microdown |  Bod |
+| [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
+| [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |
+| [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/releases/download/latest/MemoryGame-wip.pdf) | Ongoing | Microdown |
+| [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) | [![Centralized book generation](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/releases/download/latest/DynamicWebDev-wip.pdf) | Ongoing | Microdown |
 
 
 ### Booklets
@@ -34,15 +38,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [UFFI](https://github.com/SquareBracketAssociates/booklet-uFFI)  |  |  | Released  | Microdown |
 | [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/releases/download/latest/Voyage.pdf) | Released | Microdown |
 | [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/releases/download/latest/zinc.pdf) | Released | Microdown |
-
-
-
-### Books nearly finished
-| Books                             | Build Status  | PDF   | State | Type  |
-| -------------------------------- |:-------------:| -----:| -----:| -----:|
-| [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
-| [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |
-| [Booklet-BuildingMemoryGameWithBloc](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc) | [![Centralized book generation](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-BuildingMemoryGameWithBloc/releases/download/latest/MemoryGame-wip.pdf) | Ongoing | Microdown |
 
 
 ### Super Drafts
@@ -71,10 +66,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 #### PatternsOfDesign
 [![Build status](https://travis-ci.com/SquareBracketAssociates/PatternsOfDesign.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/PatternsOfDesign) [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) Ongoing Microdown
-
-#### DynamicWebDevelopmentWithSeaside
-- [![Build status](https://travis-ci.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) 
-- [DynamicWebDevelopmentWithSeaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside)
 
 
 # Todo
