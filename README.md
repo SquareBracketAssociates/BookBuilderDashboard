@@ -39,6 +39,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [UFFI](https://github.com/SquareBracketAssociates/booklet-uFFI) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-uFFI/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-uFFI/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-uFFI/releases/download/latest/UnifiedFFI.pdf) | Released  | Microdown |
 | [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/releases/download/latest/Voyage.pdf) | Released | Microdown |
 | [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/releases/download/latest/zinc.pdf) | Released | Microdown |
+| [Booklet-ClapCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/releases/download/latest/Clap-wip.pdf) | Ongoing | Microdown |
 
 
 ### Super Drafts
@@ -51,14 +52,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-Rewriter](https://github.com/SquareBracketAssociates/Booklet-Rewriter) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-Rewriter/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Rewriter/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Rewriter/releases/download/latest/rewriter-wip.pdf) | Ongoing | Microdown |
 | [Booklet-PharoChosenPieces](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/releases/download/latest/chosenpieces-wip.pdf) | Ongoing |  Microdown |
 |  |  |  |  |  |
-
-### Ongoing books requiring large efforts
-
-### Books to be archived
-
-| Book                             | Build Status  | PDF   | State | Type  |
-| -------------------------------- |:-------------:| -----:| -----:| -----:|
-| [Booklet-ClapCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/releases/download/latest/Clap-wip.pdf) | Ongoing | Pillar |
 
 # Old to be migrated to centralized builder
 
