@@ -24,8 +24,8 @@ jobs:
 
       - name: Prepare TeXlive
         run: |
-          ./_support/latex/sbabook/ci/install-texlive
           echo "$HOME/texlive/bin/x86_64-linux" >> $GITHUB_PATH
+          ./_support/latex/sbabook/ci/install-texlive
           xargs tlmgr install < ./_support/latex/texlive.deps
 
       - name: Build PDF
