@@ -6,39 +6,33 @@ on:
         required: true
         type: string
         
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TEXLIVE_RELEASE: '2023'
     
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
       - uses: actions/checkout@v3
 
       - name: Prepare Pillar
         run: |
           git clone https://github.com/pillar-markup/pillar.git -b v8.3.1
-          export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-          ./pillar/scripts/ci/install-texlive
-          ./_support/latex/ensure-deps.sh
           ./pillar/scripts/build.sh
-          mkdir artifacts
-          
+          echo "${{ github.workspace }}/build" >> $GITHUB_PATH
+
+      - name: Prepare TeXlive
+        run: |
+          ./_support/latex/sbabook/ci/install-texlive
+          echo "$HOME/texlive/bin/x86_64-linux" >> $GITHUB_PATH
+          xargs tlmgr install < ./_support/latex/texlive.deps
+
       - name: Build PDF
         run: |
-          export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
-          pillar build pdf $FILE
-          mv _result/pdf/index.pdf artifacts/${{ inputs.bookname }}.pdf
-
-# Pillar cannot export HTML for microdown currently. We will uncoment whel it will be able
-#      - name: Build HTML
-#        run: |
-#          export PATH="$HOME/texlive/bin/x86_64-linux:$PWD/build:$PATH"
-#          export FILE=$(ls 2>/dev/null | grep -i index.*) #For now there is a bug in pillar with microdown and we need to specify the file
-#          pillar build html $FILE
-#          ls -R _result/
-        # TODO: move html files to archive to artifacts folder
+          pillar build pdf index.*
+          mkdir -p artifacts
+          mv _result/pdf/index.pdf "artifacts/${{ inputs.bookname }}.pdf"
 
       - name: Continuous Release
         if: ${{ github.event_name == 'push' }}
@@ -50,4 +44,3 @@ jobs:
           title: "Development Build"
           files: |
             artifacts/*.pdf
-          # TODO: add html files
