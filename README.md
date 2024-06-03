@@ -67,7 +67,14 @@ Possible solutions:
 - You are missing the workflow file in the `.github/workflow/` folder?
 - The branch name declared in the workflow file is not the same as in the repository? (`master` instead of `main` for example?)
 
-## My building scritp is not executable
+
+## Latex is crying and us too 
+
+```
+git subrepo pull --force --branch=v0.2.8 archetypes/bod-book/support/latex/sbabook
+```
+
+## My building script is not executable
 
 If you have an error because a building script is not executable you can add the permissions like this:
 
