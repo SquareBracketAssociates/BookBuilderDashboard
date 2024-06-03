@@ -71,7 +71,7 @@ Possible solutions:
 ## Latex is crying and us too 
 
 ```
-git subrepo pull --force --branch=v0.2.8 archetypes/bod-book/support/latex/sbabook
+git subrepo pull --force --branch=v0.2.8 support/latex/sbabook
 ```
 
 ## My building script is not executable
