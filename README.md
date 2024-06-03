@@ -40,6 +40,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-Voyage](https://github.com/SquareBracketAssociates/Booklet-Voyage) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Voyage/releases/download/latest/Voyage.pdf) | Released | Microdown |
 | [Booklet-ZincHTTP](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ZincHTTP/releases/download/latest/zinc.pdf) | Released | Microdown |
 | [Booklet-ClapCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/releases/download/latest/Clap-wip.pdf) | Ongoing | Microdown |
+| [Booklet-ASimpleMemoryGame](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/releases/download/latest/index.pdf) | Released | Microdown |
 
 
 ### Super Drafts
@@ -59,7 +60,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
 # Todo
-- Pharo graphs
+
 - Fix IA book
 - Testing in Pharo
 
