@@ -58,10 +58,24 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
-# Todo
-- Pharo graphs
-- Fix IA book
-- Testing in Pharo
+# Troubleshooting
+
+## My github action do not launch?
+
+Possible solutions:
+- You are missing the workflow file in the `.github/workflow/` folder?
+- The branch name declared in the workflow file is not the same as in the repository? (`master` instead of `main` for example?)
+
+## My building scritp is not executable
+
+If you have an error because a building script is not executable you can add the permissions like this:
+
+```bash
+git update-index --chmod=+x _support/latex/ensure-deps.sh
+git ls-files --stage
+git commit -m "Make script executable"
+git push origin master #or main or another branch name
+```
 
 
 
