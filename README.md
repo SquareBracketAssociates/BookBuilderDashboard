@@ -15,6 +15,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Reflective Kernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/releases/download/latest/reflectiveKernel-wip.pdf) | Released | Microdown |
 | [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Ongoing | Microdown |
 
+
+
 ### Books
 | Books                             | Build Status  | PDF   | State | Type  | Status |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
@@ -85,7 +87,27 @@ git subrepo pull --force --branch=v0.2.8 support/latex/sbabook
 ```
 - do not forget to update the template to refer to the new location.
 
+### For Bod format
+Use the correct format in common.tex
 
+```
+\pagelayout{\bodpage}
+```
+
+Add extra pages
+
+```
+\begin{document}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+...
+```
 ## My building script is not executable
 
 If you have an error because a building script is not executable you can add the permissions like this:
