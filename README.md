@@ -70,9 +70,13 @@ Possible solutions:
 
 ## Latex is crying and us too 
 
+- you may have to move the CreativeCommons-BYNOCND.pdf into the latex repo out of sbabook
+- update sba book
 ```
 git subrepo pull --force --branch=v0.2.8 support/latex/sbabook
 ```
+- do not forget to update the template to refer to the new location.
+
 
 ## My building script is not executable
 
