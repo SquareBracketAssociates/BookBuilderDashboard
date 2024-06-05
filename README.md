@@ -3,6 +3,12 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
+### Books in print @ Book on Demand
+| Books                             | Build Status  | PDF   | State | Type  | Status |
+| -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
+| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Published | Microdown | Bod |
+| [PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/releases/download/latest/PharoWithStyle.pdf) | Published | Microdown | Bod |
+
 ### Books
 | Books                             | Build Status  | PDF   | State | Type  | Status |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
@@ -21,8 +27,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 | Booklets                             | Build Status  | PDF   | State | Type  | Status |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
-| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Published | Microdown | Bod |
-| [PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/releases/download/latest/PharoWithStyle.pdf) | Published | Microdown | Bod |
 | [Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/releases/download/latest/ConcurrentProgrammingInPharo.pdf) | Pre-Published | Microdown | Bod|
 | [Booklet-ManagingCode](https://github.com/SquareBracketAssociates/Booklet-ManagingCode) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ManagingCode/releases/download/latest/ManagingCodeInPharo.pdf) | Released | Microdown |
 | [Pharo Graphs](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/actions/workflows/main.yml/badge.svg) |  [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoGraphs/releases/download/latest/PharoGraphs.pdf) | Released | Microdown |
