@@ -36,7 +36,7 @@ jobs:
 
       - name: Install Pillar Template TeXlive Dependencies
         run: |
-        xargs tlmgr install < ./_support/latex/texlive.deps	  
+          xargs tlmgr install < ./_support/latex/texlive.deps
 
       - name: Build PDF
         run: |
