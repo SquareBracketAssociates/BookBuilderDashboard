@@ -29,10 +29,6 @@ jobs:
       - name: Prepare TeXlive
         run: |
           ./_support/latex/sbabook/ci/install-texlive
-		  
-      - name: Install SBA TeXlive Dependencies
-        run: |
-            tlmgr install bibtex
 
       - name: Install SBA TeXlive Dependencies
         run: |
