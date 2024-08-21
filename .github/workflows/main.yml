@@ -23,7 +23,7 @@ jobs:
 
       - name: Prepare Pillar
         run: |
-          git clone https://github.com/pillar-markup/pillar.git -b v10.1.0
+          git clone https://github.com/pillar-markup/pillar.git -b v10.2.0
           ./pillar/scripts/build.sh
 
       - name: Prepare TeXlive
