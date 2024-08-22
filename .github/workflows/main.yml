@@ -30,6 +30,11 @@ jobs:
         run: |
           ./_support/latex/sbabook/ci/install-texlive
 
+      - name: Install Bibtex
+        run: |
+          xargs tlmgr install bibtex
+
+
       - name: Install SBA TeXlive Dependencies
         run: |
           xargs tlmgr install < ./_support/latex/sbabook/texlive.deps
