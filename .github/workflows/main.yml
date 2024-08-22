@@ -9,6 +9,10 @@ on:
         description: 'Filename of the input file to be built (e.g. mybook.md)'
         default: "index.md"
         type: string
+      autorelease:
+        description: 'Create a release and upload the artifacts to it (needs token)'
+        default: true
+        type: boolean
         
 jobs:
   build:
