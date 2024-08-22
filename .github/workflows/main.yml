@@ -54,6 +54,12 @@ jobs:
           inputFile=${{ inputs.inputfile }}
           mv _result/pdf/${inputFile%.md}.pdf "artifacts/${{ inputs.bookname }}.pdf"
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.bookname }}.pdf
+          path: artifacts/${{ inputs.bookname }}.pdf
+
       - name: Continuous Release
         if: ${{ github.event_name == 'push' }}
         uses: "marvinpinto/action-automatic-releases@latest"
