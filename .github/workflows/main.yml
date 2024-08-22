@@ -5,6 +5,10 @@ on:
         description: 'Filename of the book to be built (e.g. mybook)'
         required: true
         type: string
+      inputfile:
+        description: 'Filename of the input file to be built (e.g. mybook.md)'
+        default: "index.md"
+        type: string
         
 jobs:
   build:
@@ -45,9 +49,9 @@ jobs:
 
       - name: Build PDF
         run: |
-          pillar build pdf index.*
+          pillar build pdf ${{ inputs.inputfile }}
           mkdir -p artifacts
-          mv _result/pdf/index.pdf "artifacts/${{ inputs.bookname }}.pdf"
+          mv _result/pdf/${{ inputs.inputfile }%.*}.pdf "artifacts/${{ inputs.bookname }}.pdf"
 
       - name: Continuous Release
         if: ${{ github.event_name == 'push' }}
