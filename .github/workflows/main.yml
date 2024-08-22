@@ -52,7 +52,7 @@ jobs:
           pillar build pdf ${{ inputs.inputfile }}
           mkdir -p artifacts
           inputFile=${{ inputs.inputfile }}
-          mv _result/pdf/${inputfile%.md}.pdf "artifacts/${{ inputs.bookname }}.pdf"
+          mv _result/pdf/${inputFile%.md}.pdf "artifacts/${{ inputs.bookname }}.pdf"
 
       - name: Continuous Release
         if: ${{ github.event_name == 'push' }}
