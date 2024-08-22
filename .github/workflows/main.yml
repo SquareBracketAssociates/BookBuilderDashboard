@@ -65,7 +65,7 @@ jobs:
           path: artifacts/${{ inputs.bookname }}.pdf
 
       - name: Continuous Release
-        if: ${{ github.event_name == 'push' }}
+        if: ${{ (inputs.autorelease) && (github.event_name == 'push') }}
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
