@@ -70,7 +70,13 @@ Here is a list of some of the books, we migrated to latest latex template and la
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
 [![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
+
+
 # Troubleshooting
+
+
+
+
 
 ## My github action do not launch?
 
@@ -78,15 +84,42 @@ Possible solutions:
 - You are missing the workflow file in the `.github/workflow/` folder?
 - The branch name declared in the workflow file is not the same as in the repository? (`master` instead of `main` for example?)
 
-
-## Latex is crying and us too 
+## Latex is crying on GH and us too 
 
 - you may have to move the CreativeCommons-BYNOCND.pdf into the latex repo out of sbabook
 - update sba book
 ```
 git subrepo pull --force --branch=v0.2.8 support/latex/sbabook
 ```
-- do not forget to update the template to refer to the new location.
+- do not forget to update the template to refer to the new location
+- copy the texlive.deps from https://github.com/SquareBracketAssociates/booklet-template/
+- during the migration update the workflow to use the branch newVersionOfPillar
+
+```
+name: Book with Pillar
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron:  '0 0 * * 0'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: SquareBracketAssociates/BookBuilderDashboard/.github/workflows/main.yml@newVersionOfPillar
+    with:
+      bookname: bkTemplate
+```
+- You may have to do
+
+```
+chmod a+x _support/latex/sbabook/ci/install-texlive
+```
 
 ### For Bod format
 Use the correct format in common.tex
@@ -109,6 +142,7 @@ Add extra pages
 
 ...
 ```
+
 ## My building script is not executable
 
 If you have an error because a building script is not executable you can add the permissions like this:
