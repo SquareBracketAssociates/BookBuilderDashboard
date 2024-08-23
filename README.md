@@ -133,6 +133,18 @@ jobs:
 chmod a+x _support/latex/sbabook/ci/install-texlive
 ```
 
+All in one 
+
+```
+cp ../booklet-template/_support/latex/texlive.deps _support/latex
+cp ../booklet-template/.github/workflows/triggeringPillar10.yml .github/workflows/main.yml
+git add *
+git add .github/*
+git commit
+```
+
+
+
 ### For Bod format
 Use the correct format in common.tex
 
