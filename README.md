@@ -80,7 +80,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - https://github.com/SquareBracketAssociates/Booklet-XML        Bod - Pillar 10.2 - BuildGHOk
 - https://github.com/SquareBracketAssociates/NewToolsInPharo     Bod - Pillar 10.2 - BuildGHOk
 - https://github.com:SquareBracketAssociates/101-OOP            Bod - Pillar 10.2 - BuildGHOk
--  https://github.com:cormas/Booklet-CORMAS
+- https://github.com:cormas/Booklet-CORMAS
+- https://github.com:SquareBracketAssociates/Booklet-CorePharo  Bod - Pillar 10.2 - BuildGHOk
+- https://github.com:SquareBracketAssociates/Booklet-CompilerEssentials  Bod - Pillar 10.2 - BuildGHOk
+
 
 # Old to be migrated to centralized builder
 
