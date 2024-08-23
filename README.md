@@ -84,7 +84,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - https://github.com:SquareBracketAssociates/Booklet-CorePharo  Bod - Pillar 10.2 - BuildGHOk
 - https://github.com:SquareBracketAssociates/Booklet-CompilerEssentials  Bod - Pillar 10.2 - BuildGHOk
 - https://github.com:SquareBracketAssociates/Booklet-PharoForPythonists  Bod - Pillar 10.2 - BuildGHOk
-
+- https://github.com:SquareBracketAssociates/reproducible-research-SE-notes Bod - Pillar 10.2 - BuildGHOk
 # Old to be migrated to centralized builder
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
