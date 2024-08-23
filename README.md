@@ -76,7 +76,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 - https://github.com/SquareBracketAssociates/booklet-template/     Bod - Pillar 10.2 - BuildGHOk
 - Montreal exercise
-
+- https://github.com/SquareBracketAssociates/Booklet-XML
+- https://github.com/SquareBracketAssociates/NewToolsInPharo     Bod - Pillar 10.2 - BuildGHOk
   
 # Old to be migrated to centralized builder
 
