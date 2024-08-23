@@ -65,10 +65,17 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-PharoChosenPieces](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/releases/download/latest/chosenpieces-wip.pdf) | Ongoing |  Microdown |
 |  |  |  |  |  |
 
+
+# To be listed in one of the list above
+
+- https://github.com/SquareBracketAssociates/booklet-template/
+- https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects
+- https://github.com/SquareBracketAssociates/Booklet-Graphics
+
 # Old to be migrated to centralized builder
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
-[![Build status](https://travis-ci.com/SquareBracketAssociates/Booklet-CallStackManagement.svg?branch=master)](https://travis-ci.com/github/SquareBracketAssociates/Booklet-CallStackManagement) [Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
+[https://github.com/SquareBracketAssociates/Booklet-CallStackManagement](https://github.com/SquareBracketAssociates/Booklet-CallStackManagement)
 
 
 
