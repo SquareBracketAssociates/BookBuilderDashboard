@@ -71,11 +71,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 |  |  |  |  |  |
 
 
-# To be listed in one of the list above
+# To be listed in one of the lists above
 
 - https://github.com/SquareBracketAssociates/booklet-template/     Bod - Pillar 10.2 - BuildGHOk
 - https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects
-- https://github.com/SquareBracketAssociates/Booklet-Graphics
 
 # Old to be migrated to centralized builder
 
@@ -137,7 +136,14 @@ All in one
 
 ```
 cp ../booklet-template/_support/latex/texlive.deps _support/latex
+cp ../booklet-template/_support/latex/CreativeCommons-BYNOCND.pdf _support/latex
 cp ../booklet-template/.github/workflows/triggeringPillar10.yml .github/workflows/main.yml
+mate .github/workflows/main.yml
+
+"Changing to ND license"
+cp ../booklet-template/_support/templates/latex/main.mustache _support/
+templates/latex/
+
 git add *
 git add .github/*
 git commit
