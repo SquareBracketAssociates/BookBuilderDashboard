@@ -55,7 +55,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 
 ### Drafts
-| Books                             | Build Status  | PDF   | State | Type  |
+| Books                             | Build Status  | PDF   | State | Type  | Status |
 | -------------------------------- |:-------------:| -----:| -----:| -----:|
 | [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/releases/download/latest/fun-with-interpreters-wip.pdf) | Ongoing | Microdown |
 | [Booklet-PharoVirtualMachine](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/releases/download/latest/vm-wip.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
