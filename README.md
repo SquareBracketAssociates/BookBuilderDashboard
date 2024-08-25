@@ -71,19 +71,20 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-PharoChosenPieces](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoChosenPieces/releases/download/latest/chosenpieces-wip.pdf) | Ongoing |  Microdown |
 | [Booklet-ClapCommandLine](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ClapCommandLine/releases/download/latest/Clap-wip.pdf) | Ongoing | Microdown |
 | [Booklet-XML ](https://github.com/SquareBracketAssociates/booklet-restore) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-XML/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-XML/actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
+| [Booklet-XML ](https://github.com/SquareBracketAssociates/101-OOP ) | [![Book generation](https://github.com/SquareBracketAssociates/101-OOP/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/101-OOP /actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
+| [NewToolsInPharo ](https://github.com/SquareBracketAssociates/NewToolsInPharo ) | [![Book generation](https://github.com/SquareBracketAssociates/NewToolsInPharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/NewToolsInPharo/actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
 |  |  |  |  |  |
 
 
 # To be listed in one of the lists above
 
 - Montreal exercise
-- https://github.com/SquareBracketAssociates/NewToolsInPharo     Bod - Pillar 10.2 - BuildGHOk
-- https://github.com/SquareBracketAssociates/101-OOP            Bod - Pillar 10.2 - BuildGHOk
-- https://github.com/cormas/Booklet-CORMAS
+- https://github.com/cormas/Booklet-CORMAS Pending PR
+- https://github.com/Ducasse/reproducible-research-SE-notes Pending PR
 - https://github.com/SquareBracketAssociates/Booklet-CorePharo  Bod - Pillar 10.2 - BuildGHOk
 - https://github.com/SquareBracketAssociates/Booklet-CompilerEssentials  Bod - Pillar 10.2 - BuildGHOk
 - https://github.com/SquareBracketAssociates/Booklet-PharoForPythonists  Bod - Pillar 10.2 - BuildGHOk
-- https://github.com/Ducasse/reproducible-research-SE-notes Bod - Pillar 10.2 - BuildGHOk
+
 # Old to be migrated to centralized builder
 
 #### Booklet-CallStackManagement (did not migrate to latest sba because code should be migrated prior)
