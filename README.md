@@ -77,7 +77,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 - https://github.com/SquareBracketAssociates/booklet-template/   [![Book generation](https://github.com/SquareBracketAssociates/Booklet-template/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-template/actions/workflows/main.yml)   Bod - Pillar 10.2 - BuildGHOk
 - Montreal exercise
-- https://github.com/SquareBracketAssociates/Booklet-XML [![Book generation](https://github.com/SquareBracketAssociates/Booklet-XML/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-XML/actions/workflows/main.yml)        Bod - Pillar 10.2 - BuildGHOk
+- https://github.com/SquareBracketAssociates/Booklet-XML [![Book generation(https://github.com/SquareBracketAssociates/Booklet-XML/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-XML/actions/workflows/main.yml)        Bod - Pillar 10.2 - BuildGHOk
 - https://github.com/SquareBracketAssociates/NewToolsInPharo     Bod - Pillar 10.2 - BuildGHOk
 - https://github.com:SquareBracketAssociates/101-OOP            Bod - Pillar 10.2 - BuildGHOk
 - https://github.com:cormas/Booklet-CORMAS
