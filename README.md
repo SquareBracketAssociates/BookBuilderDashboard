@@ -85,6 +85,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 - Montreal exercise
 - https://github.com/cormas/Booklet-CORMAS Pending PR
 - https://github.com/Ducasse/reproducible-research-SE-notes Pending PR
+- https://github.com/StevenCostiou/The-Pharo-Debugger-Book Migrated
 
 # Old to be migrated to centralized builder
 
