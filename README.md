@@ -60,7 +60,10 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | -------------------------------- |:-------------:| -----:| -----:| -----:|  -----:|
 | [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/releases/download/latest/fun-with-interpreters-wip.pdf) | Ongoing | Microdown | Bod - Pillar 10.2 - BuildGHOk |
 | [Booklet-PharoVirtualMachine](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/releases/download/latest/vm-wip.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
-| [Booklet-Pharo-Graphics](https://github.com/SquareBracketAssociates/Booklet-Graphics) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-Graphics/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Graphicsactions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Graphicsreleases/download/latest/pharo-graphics.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
+| [Booklet-Pharo-Graphics](https://github.com/SquareBracketAssociates/Booklet-Graphics) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-Graphics/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-Graphicsactions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-Graphics/releases/download/latest/pharo-graphics.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
+| [Booklet-CountryTutorial](https://github.com/SquareBracketAssociates/booklet-CountryTutorial) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-CountryTutorial/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-CountryTutorial/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/booklet-CountryTutorial/releases/download/latest/countryTutorial.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
+
+
 
 ### Super Drafts
 | Books                             | Build Status  | PDF   | State | Type  |
@@ -82,7 +85,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 # To be listed in one of the lists above
 
-- Montreal exercise
 - https://github.com/cormas/Booklet-CORMAS Pending PR
 - https://github.com/Ducasse/reproducible-research-SE-notes Pending PR
 - https://github.com/StevenCostiou/The-Pharo-Debugger-Book Migrated
