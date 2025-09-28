@@ -4,7 +4,7 @@ In subsequent section, you can find the current todo to get this bar green.
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
 ### Books in print @ Book on Demand
-| Books                             | Build Status  | PDF   | State | Type  | Status |
+| Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
 | [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Published | Microdown | For new version:  adding mutation testing and test smells |
 | [PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/releases/download/latest/PharoWithStyle.pdf) | Published | Microdown | |
@@ -13,7 +13,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Building applications with Spec2](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2) | ![Build status](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/Spec2-wip.pdf) | Published | Microdown | |
 
 ### Next books to be on print @ Book on Demand
-| Books                             | Build Status  | PDF   | State | Type  | Status |
+| Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
 | [Booklet-AdvancedMicroProjects](https://github.com/SquareBracketAssociates/Booklet-AdvancedMicroProjects) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/releases/download/latest/MoocCompanion.pdf) | Released | Microdown | Should be revisited for publication |
 | [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing | Microdown |   Bod - Pillar 10.2 - BuildGHNotOk multiple anchors|
@@ -21,7 +21,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 
 ### Previously published books
-| Books                             | Build Status  | PDF   | State | Type  | Status |
+| Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
 | [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlog-EN/releases/download/latest/TinyBlog-EN.pdf) | Published | Microdown | Lulu - Pillar 10.2 - BuildGHOk |
 | [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlogTutorial/releases/download/latest/TinyBlog-FR.pdf) | Published | Microdown | Lulu |
@@ -32,7 +32,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 ### Booklets
 
-| Booklets                             | Build Status  | PDF   | State | Type  | Status |
+| Booklets                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
 | [Booklet-ASimpleMemoryGame](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ASimpleMemoryGame/releases/download/latest/index.pdf) | Released | Microdown | May need some extra material to be physically printed. |
 | [Booklet-ConcurrentProgramming](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-ConcurrentProgramming/releases/download/latest/ConcurrentProgrammingInPharo.pdf) | Released | Microdown | A chapter on monitor would be nice |
@@ -55,7 +55,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 
 ### Drafts
-| Books                             | Build Status  | PDF   | State | Type  | Status |
+| Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:|  -----:|
 | [Booklet-FunWithInterpreters](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-FunWithInterpreters/releases/download/latest/fun-with-interpreters-wip.pdf) | Ongoing | Microdown | Bod - Pillar 10.2 - BuildGHOk |
 | [Booklet-PharoVirtualMachine](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoVirtualMachine/releases/download/latest/vm-wip.pdf) | Ongoing | Microdown |  Bod - Pillar 10.2 - BuildGHOk |
@@ -65,7 +65,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 
 ### Super Drafts
-| Books                             | Build Status  | PDF   | State | Type  |
+| Books                             | Build Status  | PDF   | State | Notes  |
 | -------------------------------- |:-------------:| -----:| -----:| -----:|
 | [PatternsOfDesign](https://github.com/SquareBracketAssociates/PatternsOfDesign) | [![Book generation](https://github.com/SquareBracketAssociates/PatternsOfDesign/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/PatternsOfDesign/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/PatternsOfDesign/releases/download/latest/Pattern-wip.pdf) | Ongoing | Microdown | Bod - Pillar 10.2 - BuildGHOk|
 | [Booklet-AI-Technics](https://github.com/SquareBracketAssociates/Booklet-AI-Technics) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-AI-Technics/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AI-Technics/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AI-Tecnics/releases/download/latest/AI-Technics.pdf) | Ongoing | Microdown | Bod - Pillar 10.2 - BuildGHNotOk multiple anchors |
