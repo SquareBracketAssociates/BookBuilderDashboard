@@ -3,12 +3,13 @@
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
 
-ML26 stands for Migrated to LaTeX 2026
-
+- ML26 stands for Migrated to LaTeX 2026
+- MLU26 stands for Migrated to LaTeX 2026 and Updated with LatexXP2026 dependency files
+ 
 ### Books in print @ Book on Demand
 | Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
-| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Published  - ML26| Microdown | For new version:  adding mutation testing and test smells - ML26|
+| [Booklet-TestingInPharo](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-TestingInPharo/releases/download/latest/TestingInPharo.pdf) | Published  - MLU26 | Microdown | For new version:  adding mutation testing and test smells - ML26|
 | [PharoWithStyle](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle) | ![Build status](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoWithStyle/releases/download/latest/PharoWithStyle.pdf) | Published - ML26 | Microdown | |
 | [NewPharoByExample9](https://github.com/SquareBracketAssociates/NewPharoByExample9) | ![Build status](https://github.com/SquareBracketAssociates/NewPharoByExample9/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/NewPharoByExample9/releases/download/latest/PharoByExample9-wip.pdf) | Published  - ML26 | Microdown |  Available on Bod but we should harvest fixes (note repository is newPBE and not PBE). May be postone to Pharo 15 |
 | [Reflective Kernel](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-AReflectiveKernel/releases/download/latest/reflectiveKernel-wip.pdf) | Published  - ML26 | Microdown | |
