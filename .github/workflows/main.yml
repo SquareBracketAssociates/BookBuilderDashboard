@@ -15,7 +15,7 @@ on:
         type: boolean
       texlive_release:
         description: 'The TeX Live release to use for the build ("YYYY" or "rolling")'
-        default: '2023'
+        default: '2026'
         type: string
 
 jobs:
