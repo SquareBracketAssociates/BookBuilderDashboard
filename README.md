@@ -81,6 +81,7 @@ Here is a list of some of the books, we migrated to latest latex template and la
 | [Booklet-CorePharo ](https://github.com/SquareBracketAssociates/booklet-CorePharo) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-CorePharo/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-CorePharo/actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
 | [Booklet-PharoForPythonists ](https://github.com/SquareBracketAssociates/Booklet-PharoForPythonists ) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-PharoForPythonists/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-PharoForPythonists/actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
 | [CompilerEssentials ](https://github.com/SquareBracketAssociates/Booklet-CompilerEssentials) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-CompilerEssentials/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-CompilerEssentials/actions/workflows/main.yml)  |  | Released | Microdown | Bod - Pillar 10.2 - BuildGHOk |
+| [Cormas ](https://github.com/cormas/Booklet-CORMAS) | [![Book generation]( https://github.com/cormas/Booklet-CORMAS/actions/workflows/main.yml/badge.svg)]( https://github.com/cormas/Booklet-CORMAS/actions/workflows/main.yml)  |  | Released - MLU26| Microdown | Bod -  |
 |  |  |  |  |  |
 
 
@@ -88,7 +89,6 @@ Here is a list of some of the books, we migrated to latest latex template and la
 
 - https://github.com/cormas/Booklet-CORMAS Pending PR
 - https://github.com/Ducasse/reproducible-research-SE-notes Pending PR
-- https://github.com/StevenCostiou/The-Pharo-Debugger-Book Migrated
 
 # Old to be migrated to centralized builder
 
