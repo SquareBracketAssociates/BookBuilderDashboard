@@ -2,11 +2,11 @@
 
 In subsequent section, you can find the current todo to get this bar green. 
 Here is a list of some of the books, we migrated to latest latex template and latest stable pillar. 
+The build of books on GH only works for LaTeX 2026 distribution. We are sorry but we will not fight with the non backward compatible changes of LaTeX.
 
-- ML26 stands for Migrated to LaTeX 2026
 - MLU26 stands for Migrated to LaTeX 2026 and Updated with LatexXP2026 dependency files
 - Everywhere means: PDF can be produced locally with LaTeX 26 and on the server.
-- 
+  
 ### Books in print @ Book on Demand
 | Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
@@ -19,8 +19,8 @@ Here is a list of some of the books, we migrated to latest latex template and la
 ### Next books to be on print @ Book on Demand
 | Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
-| [Booklet-AdvancedMicroProjects](https://github.com/SquareBracketAssociates/Booklet-AdvancedMicroProjects) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/releases/download/latest/MoocCompanion.pdf) | Released - Migrated L26 | Microdown | Should be revisited for publication  |
-| [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/DataFrame-wip.pdf) | Ongoing  - ML26  | Microdown |   Bod - Pillar 10.2 - BuildGHNotOk multiple anchors|
+| [Booklet-AdvancedMicroProjects](https://github.com/SquareBracketAssociates/Booklet-AdvancedMicroProjects) | [![Book generation](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/booklet-AdvancedMicroProjects/releases/download/latest/MoocCompanion.pdf) | Released | MLU26 Everywhere  | Should be revisited for publication  |
+| [Booklet-DataFrame](https://github.com/SquareBracketAssociates/Booklet-DataFrame) | [![Book generation](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/Booklet-DataFrame/actions/workflows/main.yml) | [PDF](https://github.com/SquareBracketAssociates/Booklet-DataFrame/releases/download/latest/index.pdf) | Released | MLU26 Everywhere |  Check multiple anchors |
 
 
 
