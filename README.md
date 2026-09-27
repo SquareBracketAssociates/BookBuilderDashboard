@@ -104,13 +104,13 @@ The build of books on GH only works for LaTeX 2026 distribution. We are sorry bu
 
 
 
-## My github action do not launch?
+### My github action do not launch?
 
 Possible solutions:
-- You are missing the workflow file in the `.github/workflow/` folder?
+- You are missing the workflow file in the `.github/workflows/` folder?
 - The branch name declared in the workflow file is not the same as in the repository? (`master` instead of `main` for example?)
 
-## Latex is crying on GH and us too 
+### Latex is crying on GH and us too 
 
 - you may have to move the CreativeCommons-BYNOCND.pdf into the latex repo out of sbabook
 - update sba book
@@ -164,8 +164,6 @@ git add .github/*
 git commit
 ```
 
-
-
 ### For Bod format
 Use the correct format in common.tex
 
@@ -188,7 +186,7 @@ Add extra pages
 ...
 ```
 
-## My building script is not executable
+### My building script is not executable
 
 If you have an error because a building script is not executable you can add the permissions like this:
 
