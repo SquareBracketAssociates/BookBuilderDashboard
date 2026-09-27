@@ -24,12 +24,12 @@ The build of books on GH only works for LaTeX 2026 distribution. We are sorry bu
 
 
 
-### Previously published books
+### Previously published books on Lulu kept building for having a recent PDF
 | Books                             | Build Status  | PDF   | State | Type  | Notes |
 | -------------------------------- |:-------------:| -----:| -----:| -----:| -----:|
 | [TinyBlog-EN](https://github.com/SquareBracketAssociates/TinyBlog-EN) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlog-EN/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlog-EN/releases/download/latest/TinyBlog-EN.pdf) | Published  - ML26  | Microdown | Lulu - Pillar 10.2 - BuildGHOk |
 | [TinyBlogTutorial](https://github.com/SquareBracketAssociates/TinyBlogTutorial) | ![Build status](https://github.com/SquareBracketAssociates/TinyBlogTutorial/actions/workflows/main.yml/badge.svg) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/TinyBlogTutorial/releases/download/latest/TinyBlog-FR.pdf) | Published  - ML26 | Microdown | Lulu |
-| [Learning OOP](https://github.com/SquareBracketAssociates/LearningOOPWithPharo) | Published | TODO | Released - ML26 | Microdown | Lulu |
+| [Learning OOP](https://github.com/SquareBracketAssociates/LearningOOPWithPharo) | Published | LMU26 Everywhere | Published on Lulu | Some problems with undefined refs figExpressionHierar and bib ref  |
 | [Seaside](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside) | [![Book generation](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml/badge.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/actions/workflows/main.yml) | [![Download PDF](https://img.shields.io/badge/Download-PDF-9cf.svg)](https://github.com/SquareBracketAssociates/DynamicWebDevelopmentWithSeaside/releases/download/latest/DynamicWebDev-wip.pdf) | Ongoing  - ML26 | Microdown | Available in microdown now need a pass |
 
 
